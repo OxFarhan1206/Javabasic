@@ -1,0 +1,8 @@
+# Java datatypes & variables 
+public class Class1 {
+    public static void main(String[] args) {
+       int myvar;
+       myvar = 100;
+         System.out.println("Value of myvar is: " + myvar);
+}
+}
