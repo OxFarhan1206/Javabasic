@@ -6,3 +6,12 @@ public class Class1 {
          System.out.println("Value of myvar is: " + myvar);
 }
 }
+# adding
+public class Class1 {
+    public static void main(String[] args) {
+       int myvar;
+       myvar = 100;
+       myvar = myvar + 100;
+         System.out.println("Value of myvar is: " + myvar);
+}
+}
