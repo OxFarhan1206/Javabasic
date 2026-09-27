@@ -1,0 +1,66 @@
+# avarage
+public class Class1 {
+    public static void main(String[] args) {
+     int a,b,c;
+     a = 10;
+     b = -5;
+     c = 20;
+
+     float avg;
+     avg = (a + b + c) / 3;
+
+     System.out.println("Average of a, b, c is: " + avg);
+}
+}
+# For full fraction value
+public class Class1 {
+    public static void main(String[] args) {
+     int a,b,c;
+     a = 10;
+     b = -5;
+     c = 20;
+
+     float avg;
+     avg = (float) (a + b + c) / 3;
+
+     System.out.println("Average of a, b, c is: " + avg);
+}
+}
+# Long
+public class Class1 {
+    public static void main(String[] args) {
+     long a,b,c;
+     a = 1024534;
+     b = 53423;
+     c = 2034343;
+
+     float avg;
+     avg = (float) (a + b + c) / 3;
+
+     System.out.println("Average of a, b, c is: " + avg);
+}
+}
+# boolean
+public class Class1 {
+    public static void main(String[] args) {
+     boolean x;
+     x = true;
+     System.out.println("The value of x is:" + x);
+}
+}
+# char
+public class Class1 {
+    public static void main(String[] args) {
+    char x;
+    x = '5';
+    
+     System.out.println("The value of x is:" + x);
+}
+}
+# Sum
+public class Class1 {
+    public static void main(String[] args) {
+    int x = 20, y = 4, z = 6;
+     System.out.println("Sum of the values is:" + ( x + y + z));
+}
+}
