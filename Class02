@@ -1,0 +1,16 @@
+#code 01 (Print)
+public class Class1 {
+    public static void main(String[] args) {
+        System.out.print("This is my first java pragram in DIU");
+        System.out.print("This is related to OOP");
+        System.out.print("This is very important course");
+    }
+}
+#code 02 (Spacing\t)
+public class Class1 {
+    public static void main(String[] args) {
+        System.out.print("This is my first java pragram in DIU\t");
+        System.out.print("This is related to OOP\t");
+        System.out.print("This is very important course\t");
+    }
+}
