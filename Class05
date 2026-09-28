@@ -1,0 +1,35 @@
+#if else condition
+public class Class1 {
+    public static void main(String[] args) {
+    int a = 6;
+    if (a > 5 && a < 10) {
+        System.out.println("6 - 10");
+    }else {
+        System.out.println("Condition false");
+    }
+}
+}
+# ODD & EVEN condition
+public class Class1 {
+    public static void main(String[] args) {
+    int num = 48;
+
+    if( num % 2 == 0) {
+        System.out.println("EVEN");
+    } else {
+        System.out.println("ODD");
+    }
+}
+}
+#VOWEL & CONSONENT condition
+public class Class1 {
+    public static void main(String[] args) {
+    char ch = 'k';
+
+    if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
+        System.out.println( "vowel");
+    } else {
+        System.out.println( "consonant");
+    }
+}
+}
