@@ -1,0 +1,52 @@
+#Basic operation ( + )
+public class Class1 {
+    public static void main(String[] args) {
+    int x;
+    x = 7 + 5;
+    System.out.println("THe value of x is : " + x);
+
+}
+}
+# operation ( += )
+public class Class1 {
+    public static void main(String[] args) {
+    int x;
+    x = 7 + 5;
+    x += 10;
+    System.out.println("THe value of x is : " + x);
+
+}
+}
+# operation ( -= )
+public class Class1 {
+    public static void main(String[] args) {
+    int x;
+    x = 7 + 5;
+    x -= 10;
+    System.out.println("THe value of x is : " + x);
+
+}
+}
+# 
+public class Class1 {
+    public static void main(String[] args) {
+        int x;
+        x = 5;
+    System.out.println("Current value of x is:" + x++);
+    System.out.println("Current value of x is:" + ++x);
+
+    x =  5;
+
+    System.out.println("Current value of x is:" + x--);
+    System.out.println("Current value of x is:" + --x);
+
+    
+}
+}
+# All operator
+public class Class1 {
+    public static void main(String[] args) {
+        int x = 10 + 2 * 4 - 3;
+        System.out.println(x);   
+}
+}
