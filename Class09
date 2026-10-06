@@ -1,0 +1,39 @@
+#Loop hi
+public class Class1 {
+    public static void main(String[] args) {
+        int i;
+        for( i = 1; i <= 10; i++){
+            System.out.println("hi");
+        }  
+}
+}
+# number
+public class Class1 {
+    public static void main(String[] args) {
+        int i;
+        for( i = 1; i <= 100; i = i+1){
+            System.out.println(i);
+        }  
+}
+}
+#Break
+public class Class1 {
+    public static void main(String[] args) {
+        int i;
+        for( i = 1; i <= 10; i++){
+            System.out.println(i);
+            if (i == 5)
+                break;
+        }  
+}
+}
+#Loop ( 100 - 0)
+public class Class1 {
+    public static void main(String[] args) {
+        int i;
+        for( i = 100; i >= 0; i = i - 10){
+            System.out.println(i);
+            
+        }  
+}
+}
