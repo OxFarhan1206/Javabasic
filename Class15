@@ -1,0 +1,9 @@
+##
+public class Class1 {
+    public static void main(String[] args) {
+     String s = "Dhaka, Bangaldesh";
+     int l = s. length();
+
+     System.out.println(l);
+}
+}
